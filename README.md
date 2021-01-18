@@ -1,4 +1,4 @@
-# JavaScript Audio Player Project
+# Party Playlist
 
 To run, install dependencies:
 
